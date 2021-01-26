@@ -1,0 +1,7 @@
+{
+    "main": "index.js",
+    "option": {
+        "apiLevel": 2,
+        "useBabel": false
+    }
+}
